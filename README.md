@@ -4,6 +4,8 @@ search books on basis of Id ,
 delete books from details whichever not required
 and we can import book details from csv file easily
 
+Swagger api : http://localhost:8282/swagger-ui.html
+
 below are api details  providing with request body
 1.POST: http://localhost:8282/api/v1/library/save
 {
